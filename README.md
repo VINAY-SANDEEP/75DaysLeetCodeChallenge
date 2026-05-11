@@ -2,14 +2,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -26,8 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -36,16 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
@@ -55,32 +56,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0796-rotate-string/) | Easy |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -90,8 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
@@ -100,65 +102,66 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2396-strictly-palindromic-number](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0796-rotate-string](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0796-rotate-string/) | Easy |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
