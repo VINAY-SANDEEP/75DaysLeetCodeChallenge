@@ -26,11 +26,9 @@ class Solution {
 
         int right = dfsHeight(node.right);
         if (right == -1) return -1;
-
         if (Math.abs(left - right) > 1) {
             return -1;
         }
-
         return 1 + Math.max(left, right);
     }
 }
