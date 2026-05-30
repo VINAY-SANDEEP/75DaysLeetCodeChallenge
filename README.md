@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
@@ -213,9 +215,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
