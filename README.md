@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -267,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
