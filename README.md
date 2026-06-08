@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1991-find-the-middle-index-in-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Hash Table
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
