@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0542-01-matrix](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0542-01-matrix/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0542-01-matrix](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0542-01-matrix/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0542-01-matrix](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0542-01-matrix/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
