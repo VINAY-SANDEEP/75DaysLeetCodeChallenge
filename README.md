@@ -311,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
