@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0796-rotate-string/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Divide and Conquer
