@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1837-sum-of-digits-in-base-k](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1837-sum-of-digits-in-base-k) |
 | [2396-strictly-palindromic-number](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2396-strictly-palindromic-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
