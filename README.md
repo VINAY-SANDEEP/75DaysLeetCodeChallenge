@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
+| [3842-toggle-light-bulbs](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3842-toggle-light-bulbs](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3842-toggle-light-bulbs](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
