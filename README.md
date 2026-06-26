@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3689-maximum-total-subarray-value-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2869-minimum-operations-to-collect-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3842-toggle-light-bulbs/) | Easy |
