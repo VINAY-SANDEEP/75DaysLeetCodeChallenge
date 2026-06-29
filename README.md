@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1154-day-of-the-year/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Divide and Conquer
