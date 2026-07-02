@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0551-student-attendance-record-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0796-rotate-string/) | Easy |
