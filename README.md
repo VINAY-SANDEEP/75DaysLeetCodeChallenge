@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0724-find-pivot-index/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
