@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0371-sum-of-two-integers](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1154-day-of-the-year](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1154-day-of-the-year/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1837-sum-of-digits-in-base-k) |
 | [2396-strictly-palindromic-number](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2396-strictly-palindromic-number) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0645-set-mismatch](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Tree
