@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0182-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0610-triangle-judgement) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
