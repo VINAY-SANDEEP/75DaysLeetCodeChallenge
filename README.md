@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3683-earliest-time-to-finish-one-task](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0645-set-mismatch](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 ## Tree
 |  |
 | ------- |
