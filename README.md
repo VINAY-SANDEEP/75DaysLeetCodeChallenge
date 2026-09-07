@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0796-rotate-string/) | Easy |
 | [1154-day-of-the-year](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1154-day-of-the-year/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1189-maximum-number-of-balloons) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1154-day-of-the-year](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1154-day-of-the-year/) | Easy |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1837-sum-of-digits-in-base-k](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/2396-strictly-palindromic-number) |
