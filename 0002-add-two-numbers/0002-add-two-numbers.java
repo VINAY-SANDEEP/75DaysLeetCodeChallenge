@@ -13,42 +13,31 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        l1 = reverse(l1);
-        l2 = reverse(l2);
-        ListNode dummy = new ListNode(0);
-        ListNode curr = dummy;
+       ListNode dummy = new ListNode(); 
+        ListNode temp = dummy; 
         int carry = 0;
+        //Iterate till the end of both the lists
         while (l1 != null || l2 != null || carry != 0) {
-            int sum = carry;
+            int sum = 0;
+
             if (l1 != null) {
                 sum += l1.val;
                 l1 = l1.next;
             }
+             //Repeat the same process for l2 as l1
             if (l2 != null) {
                 sum += l2.val;
                 l2 = l2.next;
             }
-            curr.next = new ListNode(sum % 10);
+            //Carry gets added to sum in the node (carry=sum/10)
+            sum += carry;
             carry = sum / 10;
-            curr = curr.next;
+
+            ListNode node = new ListNode(sum % 10);
+            temp.next = node;
+            temp = temp.next;
         }
+
         return dummy.next;
-    }
-
-    private ListNode reverse(ListNode head) {
-
-        ListNode prev = null;
-        ListNode curr = head;
-
-        while (curr != null) {
-
-            ListNode next = curr.next;
-
-            curr.next = prev;
-            prev = curr;
-            curr = next;
-        }
-
-        return prev;
     }
 }
