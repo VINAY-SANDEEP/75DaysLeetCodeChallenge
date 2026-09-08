@@ -15,11 +15,9 @@ class Solution {
         }
         int[] result = new int[k];
         int i = 0;
-
         while (!pq.isEmpty()) {
             result[i++] = pq.poll();
         }
-
         return result;
     }
 
