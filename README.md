@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0371-sum-of-two-integers](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/VINAY-SANDEEP/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/VINAY-SANDEEP/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 ## String Matching
